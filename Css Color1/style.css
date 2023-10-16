@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+.h1 h4{
+    color: #000000;
+}
+.h1 p{
+   color: #FF0000;
+   ;
+}
+.h2 h4{
+    color:#2400FF ;
+    ;
+}
+.h2 p{
+   color: #FF2929;
+   ;
+}
+.h3 h4{
+    color: #00461C;
+}
+.h3 p{
+   color: #000000;
+   ;
+}
